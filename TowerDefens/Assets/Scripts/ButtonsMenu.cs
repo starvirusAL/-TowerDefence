@@ -12,7 +12,12 @@ public class ButtonsMenu : MonoBehaviour
         SceneManager.LoadScene(Level);
     }
    
-
+    public void ExitGame()
+    {
+       
+            Application.Quit();    // закрыть приложение
+        
+    }
   
 }
 

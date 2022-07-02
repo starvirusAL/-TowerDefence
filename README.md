@@ -2,4 +2,4 @@
 
 • The game was created on UNITY with adding assets from assetStore type: SkyBox.
 
-• To run a project on a PC, press Play.exe
+• To run a project on a PC, press Play.exe or you can instal .apk to your phone.
