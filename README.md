@@ -2,4 +2,4 @@
 
 • The game was created on UNITY with adding assets from assetStore type: SkyBox.
 
-• To run a project on a PC, press Play.exe or you can instal .apk to your phone.
+• To run a project on a PC, press TowerDefence.exe or you can instal .apk to your phone.
