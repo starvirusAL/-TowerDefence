@@ -1,4 +1,4 @@
-• This project is about Tower defence.
+• This project is about Tower defence..
 
 • The game was created on UNITY with adding assets from assetStore type: SkyBox.
 
