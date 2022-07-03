@@ -82,7 +82,7 @@ public class PathFinder : MonoBehaviour
             Vector2Int getGridPos = waipoint.GetGridPos();
             if (grid.ContainsKey(getGridPos))
             {
-                Debug.LogWarning(waipoint.GetGridPos() / 10 + " is Repeat");
+              
             }
             else
                 grid.Add(getGridPos, waipoint);

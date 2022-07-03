@@ -12,7 +12,7 @@ public class UIManeger : MonoBehaviour
     void Start()
     {
         
-        SetTextArea();
+        
         
 
     }
@@ -35,7 +35,7 @@ public class UIManeger : MonoBehaviour
         EnemySpawner getWave = FindObjectOfType<EnemySpawner>();
 
         life.text = ("Life:" + getLife.GetHitPoint());
-        wave.text = "Wave:" + getWave.GetWave( ) + " (" +getWave.GetLimit() + ")";
+        wave.text = "Wave:" + getWave.GetWave( ) + " (" +getWave.GetLimit()+" / "+ (getWave.GetNumOfEnemy() ) + ")";
         money.text = ("Money: " + getMoney.GetMoney());
     }
     void Update()

@@ -18,6 +18,10 @@ public class ButtonsMenu : MonoBehaviour
             Application.Quit();    // закрыть приложение
         
     }
+    public void backButton()
+    {
+        SceneManager.LoadScene(Level);
+    }
   
 }
 
